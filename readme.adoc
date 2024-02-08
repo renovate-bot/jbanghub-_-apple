@@ -1,0 +1,5 @@
+# JBangHub Catalog for apple 
+
+This is a catalog of JBang scripts for apple.
+
+Curated and created by the community.
