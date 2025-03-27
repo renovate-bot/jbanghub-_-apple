@@ -2,7 +2,7 @@
   "catalogs": {},
   "aliases": {
     "pkl": {
-      "script-ref": "org.pkl-lang:pkl-cli-java:0.27.2",
+      "script-ref": "org.pkl-lang:pkl-cli-java:0.28.1",
       "java-agents": []
     }
   },
